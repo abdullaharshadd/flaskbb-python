@@ -1,5 +1,5 @@
 import pytest
 
 
-def test_registration_runs():
+def test_test_registration_runs():
     assert 1 + 1 == 2
