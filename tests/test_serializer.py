@@ -1,5 +1,5 @@
 import pytest
 
 
-def test_serializer_runs():
+def test_test_serializer_runs():
     assert 1 + 1 == 2
