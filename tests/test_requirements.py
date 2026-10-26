@@ -1,5 +1,5 @@
 import pytest
 
 
-def test_test_requirements_runs():
+def test_requirements_runs():
     assert 1 + 1 == 2
